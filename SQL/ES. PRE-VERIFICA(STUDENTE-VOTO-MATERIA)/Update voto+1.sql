@@ -1,0 +1,1 @@
+Update voto set val= val+1
